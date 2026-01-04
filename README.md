@@ -11,11 +11,11 @@ To analyze casualty trends across multiple dimensions such as vehicle type, loca
 To compare current year (CY) performance with previous year (PY) and highlight areas requiring attention.
 
 # Key Insights Delivered
-Total CY Casualties: 26K (-16.2%)
-Total CY Accidents: 19K (-15.1%)
-CY Fatal Casualties: 288 (-42.4%)
-CY Serious Casualties: 3150 (-24.4%)
-CY Slight Casualties: 23K (-14.3%)
+- Total CY Casualties: 26K (-16.2%)
+- Total CY Accidents: 19K (-15.1%)
+- CY Fatal Casualties: 288 (-42.4%)
+- CY Serious Casualties: 3150 (-24.4%)
+- CY Slight Casualties: 23K (-14.3%)
 
 # Dashboard Highlights
 - Casualties by Vehicle Type: Breakdown of casualties involving cars, bikes, buses, vans, agricultural vehicles, and others.
